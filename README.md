@@ -107,7 +107,6 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt Engineering:
 - Definition: Crafting specific inputs (prompts) to guide AI models to generate desired outputs.
